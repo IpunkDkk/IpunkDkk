@@ -19,14 +19,14 @@ I am a final semester student who is interested in technology, therefore I study
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a href="https://github.com/ipunkdkk">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IpunkDkk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IpunkDkk&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/trio-agung-purwanto-42003721b/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/trio-agung-purwanto">LinkedIn</a>
 <!-- - <a href="">dmds.dev</a> -->
 - ipunka37@gmail.com
 <!-- - <a href="">Twitter</a> -->
