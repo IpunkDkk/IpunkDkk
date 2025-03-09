@@ -1,32 +1,14 @@
 ### Hi! 👋 I'm Agung.
 
-I am a final semester student who is interested in technology, therefore I study and focus myself on learning about technologies such as artificial intelligence, android programming, web programming, and cloud computing. and I like to share about things that smell of technology
+I am a highly skilled and passionate full stack developer specializing in backend development. With a strong focus on creating robust and efficient software solutions, I bring a deep understanding of the intricacies involved in building scalable applications. My relentless pursuit of knowledge and commitment to staying up-to-date with the latest industry trends allow me to deliver high-quality code and exceed client expectations. I thrive in collaborative environments, leveraging my interpersonal skills to foster productive teamwork and mentor aspiring developers. With a passion for technology and a dedication to pushing boundaries, I am excited to embark on new challenges and contribute to innovative projects. Let's connect and explore how we can create remarkable solutions together.
 
 
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about web development or JavaScript
+- 🌱 Full Stack Web Development, AI Engineer
+- 💬 Feel free to ask me about web development and AI
 - 📫 How to reach me: ipunka37@gmail.com
-- ⚡ Fun fact: Father of a daughter
+- ⚡ Fun fact: Single 
 
-<!-- ### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
-  <br>
-  <br> -->
   
-### Github Statistic
-<p align="left">
-<a href="https://github.com/ipunkdkk">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IpunkDkk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IpunkDkk&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/trio-agung-purwanto">LinkedIn</a>
-<!-- - <a href="">dmds.dev</a> -->
-- ipunka37@gmail.com
-<!-- - <a href="">Twitter</a> -->
